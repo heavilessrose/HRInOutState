@@ -9,3 +9,5 @@ HRInOutState
 
 ** License
 - MIT
+
+[Imgur](http://i.imgur.com/sg1AXvV.png)
